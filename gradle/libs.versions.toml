@@ -1,5 +1,5 @@
 [versions]
-ktor = "2.3.6"
+ktor = "2.3.7"
 logback = "1.4.11"
 compose = "1.5.4"
 compose-plugin = "1.5.10"
